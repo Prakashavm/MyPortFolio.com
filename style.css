@@ -116,6 +116,7 @@ section{
     
     .justify-sym{
         display: block;
+        width:15px;
         position: absolute;
         left: 88%;
         top: 0.1;
